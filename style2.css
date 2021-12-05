@@ -133,6 +133,13 @@ header.fixed #logo {
     color: snow;
 }
 
+@media (max-width:650px) {
+    #zagolovok h1{
+        font-size: 2em;
+        padding-top: 40%;
+    }
+}
+
 /*Блок с возможностями*/
 #main {
     padding: 100px 20%;
