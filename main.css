@@ -238,7 +238,7 @@ header.fixed #logo {
     #overview .img {
         width:80%!important;
         margin-right: 0!important;
-        margin-left: 0!important;
+        margin-left: 0px!important;
     }
 }
 @media (max-width: 700px) {
