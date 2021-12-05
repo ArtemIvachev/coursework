@@ -238,10 +238,20 @@ header.fixed #logo {
     #overview .img {
         width:80%!important;
         margin-right: 0!important;
-        margin-left: 10%!important;
+        margin-left: 0!important;
+    }
+}
+@media (max-width: 700px) {
+    #overview span {
+        padding-left: 29px;
     }
 }
 
+@media (max-width: 1200px) {
+    #overview span {
+        padding-left: 29px;
+    }
+}
 
 /*feedback.htlm*/
 #contacts {
